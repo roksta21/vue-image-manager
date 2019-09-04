@@ -1,6 +1,6 @@
 # Vue Image Manager
 
-![Farmers Market Finder Demo](demo/demo.gif)
+![Vue Image Manager Demo](demo/demo.gif)
 
 This is a vuejs plugin that lets you easily manage server side images.
 
